@@ -1,0 +1,29 @@
+//string variables
+const country1 = "Spain";
+const country2 = "Nigeria";
+const country3 = "Morocco";
+const country4 = "Brazil";
+const country5 = "Norway";
+
+const one = 1;
+const two = 2;
+const three = 3;
+const four = 4;
+const five = 5;
+
+const true1 = true;
+const true2 = true;
+const true3 = true;
+const false1 = false;
+const false2 = false;
+
+document.write(one);
+document.write(country1);
+document.write(country2);
+document.write(country2);
+document.write(true2);
+document.write(true3);
+document.write(false1);
+document.write(false2);
+document.write(two);
+document.write(three);
