@@ -1,3 +1,4 @@
+//
 const heightInInches = 48;
 
 if (heightInInches >= 48) {

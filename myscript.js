@@ -1,29 +1,13 @@
-//string variables
-const country1 = "Spain";
-const country2 = "Nigeria";
-const country3 = "Morocco";
-const country4 = "Brazil";
-const country5 = "Norway";
+const firstName = "Ethan";
+const lastName = "Obott";
 
-const one = 1;
-const two = 2;
-const three = 3;
-const four = 4;
-const five = 5;
+const sisterAge = 15;
+const ethanAge = 19;
 
-const true1 = true;
-const true2 = true;
-const true3 = true;
-const false1 = false;
-const false2 = false;
+console.log(firstName);
+console.log(lastName);
 
-document.write(one);
-document.write(country1);
-document.write(country2);
-document.write(country2);
-document.write(true2);
-document.write(true3);
-document.write(false1);
-document.write(false2);
-document.write(two);
-document.write(three);
+console.log(sisterAge - ethanAge);
+
+console.log(5 * 5);
+console.log(15 % 3);
